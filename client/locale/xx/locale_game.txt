@@ -1,0 +1,2 @@
+SELECT_SKILLS_TEXT	Select your skill path
+SELECT_SKILLS_CONFIRM	Do you want to choose %s as a skill path?
